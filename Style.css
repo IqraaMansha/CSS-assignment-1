@@ -16,17 +16,19 @@ div.first{
 .second{
     border: 4px solid rgb(0, 0, 0);
     background-color: rgb(129, 189, 189);
+    
 }
 
 .third{
     border: 2px solid black;
     background-color: rgb(224, 241, 241);
+
 }
 
 td{
     border: 2px solid black;
     border-collapse: collapse;
-     ;
+
 }
 
 tr{
@@ -35,5 +37,5 @@ tr{
     
 .qwerty{
     background-color: rgb(129,189,189)
-    
+
 }
